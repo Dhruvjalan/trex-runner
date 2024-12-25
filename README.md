@@ -16,4 +16,5 @@ Hit the space bar to jump above the obsacles and try to jump over as many as pos
 Nothing much
 1. Either download the code, unzip it and run it in an IDE.
    or
-2. Click on the link (https://dhruvjalan.github.io/trex-runner/). get it from settings>
+1. Click on the link (https://dhruvjalan.github.io/trex-runner/). get it from settings > Pages > Click on the Link
+2. Play!
